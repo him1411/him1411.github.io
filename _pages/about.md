@@ -11,6 +11,7 @@ redirect_from:
 I am a second year thesis track master student at School of Computing and AI, Arizona State University. My thesis supervisor is Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
 I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/). 
 My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
+Please find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing)
 
 
 News

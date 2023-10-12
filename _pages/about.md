@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year thesis track master student at School of Computing and AI, Arizona State University. My supervisor is Prof. [Chitta Baral]([http://www.thuir.cn/group/~YQLiu/](https://www.public.asu.edu/~cbaral/)). 
-I closely collaboarte with Dr. [Swaroop Mishra]([https://swarooprm.github.io/](https://swarooprm.github.io/))
+I am a second year thesis track master student at School of Computing and AI, Arizona State University. My supervisor is Prof. [[Chitta Baral]](https://www.public.asu.edu/~cbaral/) 
+I closely collaboarte with Dr. [[Swaroop Mishra]](https://swarooprm.github.io/)
 My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
 
 

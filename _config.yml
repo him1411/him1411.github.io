@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haitao Li (李海涛）"
+title                    : "Himanshu Gupta"
 title_separator          : "-"
-name                     : &name "Haitao Li"
+name                     : &name "Himanshu Gupta"
 description              : &description "personal description"
-url                      : https://CSHaitao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://him1411.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/CSHaitao/CSHaitao.github.io"
+repository               : "https://github.com/him1411/him1411.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haitao Li （李海涛）"
+  name             : "Himanshu Gupta"
   avatar           : "profile.jpg"
-  bio              : "Master at Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Master at Arizona State University"
+  location         : "Pheonix, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=jj5HjKUAAAAJ&hl=zh-CN"
-  email            : "liht22@mails.tsinghua.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "hgupta35@asu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CSHaitao"
+  github           : "him1411"
   google_plus      :
   keybase          :
   instagram        :

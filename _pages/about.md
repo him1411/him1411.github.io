@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year thesis track master student at School of Computing and AI, Arizona State University. My supervisor is Prof. [[Chitta Baral]](https://www.public.asu.edu/~cbaral/) 
-I closely collaboarte with Dr. [[Swaroop Mishra]](https://swarooprm.github.io/)
+I am a second year thesis track master student at School of Computing and AI, Arizona State University. My thesis supervisor is Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
+I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/). 
 My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
 
 
@@ -37,16 +37,18 @@ Experience
 
 
 
-Papers
+Selected Papers
 ======
+* **TarGEN: Targeted Data Generation with Large Language Models** <br>
+***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
+  **(preprint)**<br>
+* **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>
+***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
+  **(preprint)**<br>
 * **EDM3: Event Detection as Multi-task Text Generation.** <br>
 Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chitta Baral <br>
   **(preprint)**<br>
   [[Paper]](https://arxiv.org/abs/2305.16357)
-* **Instruction Tuned Models are Quick Learners.** <br>
-***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
-  **(preprint)**<br>
-  [[Paper]](https://arxiv.org/abs/2306.05539)
 * **A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution.** <br>
 Neeraj Varshney(equal contribution), ***Himanshu Gupta(equal contribution)***, Eric Robertson, Bing Liu, Chitta Baral <br>
   **(ACL 2023)**<br>
@@ -58,7 +60,9 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 * **Context-NER : Contextual Phrase Generation at Scale.** <br>
 ***Himanshu Gupta***, Shreyas Verma, Santosh Mashetty, Swaroop Mishra <br>
   **(NeurIPS ENLSP Workshop)**<br>
-[[Paper]](https://arxiv.org/abs/2109.08079) 
+[[Paper]](https://arxiv.org/abs/2109.08079)
+
+* Please check [my google scholar](https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate) page for all the papers.
 
 
 Honors and Awards

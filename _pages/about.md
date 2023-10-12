@@ -17,8 +17,9 @@ News
 ======
 * **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU.
 * **07.2023** Started 40hr Co-OP as Applied Scientist at Stealth Startup
+* * **16.2022** Paper accpeted at ACL 2023 [Paper](https://arxiv.org/abs/2305.05079)
 * **05.2023** Started Internship at Amazon Alexa
-* **12.2022** Paper accpeted at ACL 2023
+
 
 
 Selected Papers

@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year master student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about Information Retrieval and Web Search.
+I am a second year thesis track master student at School of Computing and AI, Arizona State University. My supervisor is Prof. [Chitta Baral]([http://www.thuir.cn/group/~YQLiu/](https://www.public.asu.edu/~cbaral/)). 
+I closely collaboarte with Dr. [Swaroop Mishra]([https://swarooprm.github.io/](https://swarooprm.github.io/))
+My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
 
 
 News
 ======
-* **04.2023** We participated in COLIEE 2023 - Legal Case Retrieval Task and won the first place [[Paper]](https://arxiv.org/pdf/2305.06812.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
-* **04.2023** We participated in COLIEE 2023 - Legal Case Entailment Task and won the third place[[Paper]](https://arxiv.org/pdf/2305.06817.pdf) [[Code]](https://github.com/CSHaitao/THUIR-COLIEE2023). 
-* **03.2023** We participated in WSDM Cup 2023 - Unbiased Learning & Pre-training for Web Seach Task and won the second place [[Pre-training Paper]](https://arxiv.org/abs/2303.04710) [[Unbiased Paper]](https://CSHaitao.github.io/files/WSDM-Cup-Unbiased.pdf) [[Code]](https://github.com/xuanyuan14/THUIR_WSDM_Cup).
-* **12.2022** I participated in CAIL2022 and won the second place [[Link]](http://cail.cipsc.org.cn/task_summit.html?raceID=3&cail_tag=2022).
-* **08.2022** We participated in LIC2022 and won the third prize [[Link]](https://aistudio.baidu.com/aistudio/competition/detail/157/0/leaderboard).
+* **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU.
+* **07.2023** Started 40hr Co-OP as Applied Scientist at Stealth Startup
+* **05.2023** Started Internship at Amazon Alexa
+* **12.2022** Paper accpeted at ACL 2023
 
 
 Education

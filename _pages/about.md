@@ -17,7 +17,7 @@ News
 ======
 * **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU.
 * **07.2023** Started 40hr Co-OP as Applied Scientist at Stealth Startup
-* * **16.2022** Paper accpeted at ACL 2023 [Paper](https://arxiv.org/abs/2305.05079)
+* **16.2022** Paper accpeted at ACL 2023 [Paper](https://arxiv.org/abs/2305.05079)
 * **05.2023** Started Internship at Amazon Alexa
 
 
@@ -30,19 +30,19 @@ Selected Papers
   
 * **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>
 ***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
-  **(preprint)**<br>
+  **preprint**<br>
 
 * **[A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution](https://arxiv.org/abs/2305.05079).** <br>
 Neeraj Varshney, ***Himanshu Gupta***, Eric Robertson, Bing Liu, Chitta Baral <br>
-  **(ACL 2023)**<br>
+  **ACL 2023**<br>
 
 * **["John is 50 years old, can his son be 65?" Evaluating NLP Models' Understanding of Feasibility](https://arxiv.org/abs/2210.07471).** <br>
 ***Himanshu Gupta***, Neeraj Varshney, Swaroop Mishra, Kuntal Kumar Pal, Saurabh Arjun Sawant, Kevin Scaria, Siddharth Goyal, Chitta Baral <br>
-  **(EACL 2023)**<br>
+  **EACL 2023**<br>
 
 * **[Context-NER : Contextual Phrase Generation at Scale](https://arxiv.org/abs/2109.08079)** <br>
 ***Himanshu Gupta***, Shreyas Verma, Santosh Mashetty, Swaroop Mishra <br>
-  **(NeurIPS ENLSP Workshop)**<br>
+  **NeurIPS ENLSP Workshop 2022**<br>
 
 * **[EDM3: Event Detection as Multi-task Text Generation](https://arxiv.org/abs/2305.16357).** <br>
 Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chitta Baral <br>
@@ -51,14 +51,14 @@ Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chi
   
 * **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
 Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
-  **(preprint)**<br>
+  **preprint**<br>
 
 * Please check [my google scholar](https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate) page for all the papers.
 
 
 Education
 ======
-* **09.2022-present** Masters (with Thesis) in Computer Science from Arizona State University
+* **01.2022-present** Masters (with Thesis) in Computer Science from Arizona State University
 * **2015-2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
 
 Experience

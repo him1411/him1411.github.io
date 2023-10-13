@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year thesis track master student at School of Computing and AI, Arizona State University. My thesis supervisor is Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
-I closely collaboarte with Dr. [Swaroop Mishra](https://swarooprm.github.io/). 
-My research interests are at Large Language Models, Causal LMs, Enhancing Pretraining corpora, Instruction Tuning and Direct Prefence Optimization. 
-Please find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing)
-
+I am a second-year thesis track master's student at the School of Computing and AI, Arizona State University. 
+My thesis supervisor is Professor [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
+I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io).
+My research interests encompass Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
+You can find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing).
 
 News
 ======
@@ -25,8 +25,8 @@ News
 
 Selected Papers
 ======
-* **TarGEN: Targeted Data Generation with Large Language Models** <br>
-***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
+* **[TarGEN: Targeted Data Generation with Large Language Models](https://drive.google.com/file/d/1yL00A-fNderVCCu3duJCNVR9xOZIl2IO/view?usp=sharing)** <br>
+***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
   **preprint**<br>
   
 * **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>

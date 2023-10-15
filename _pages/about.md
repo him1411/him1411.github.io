@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year thesis track Computer Science master's student at the School of Computing and AI, Arizona State University. 
+I am a second year Masters student majoring in Computer Science (Thesis Track) from Arizona State University. 
 I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
 My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
 My research interests include Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
@@ -60,8 +60,8 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 
 Education
 ======
-* **2022-2023** Masters (with Thesis) in Computer Science from Arizona State University
-* **2015-2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
+* **2022 - 2023** Masters (with Thesis) in Computer Science from Arizona State University
+* **2015 - 2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
 
 Experience
 ======

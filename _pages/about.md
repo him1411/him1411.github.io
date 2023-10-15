@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year thesis track master's student at the School of Computing and AI, Arizona State University. 
-My thesis supervisor is Professor [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
-I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io).
-My research interests encompass Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
-You can find my resume attached [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing).
+I am a second-year thesis track Computer Science master's student at the School of Computing and AI, Arizona State University. 
+I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
+My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
+My research interests include Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
+You can find my resume [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing).
 
 News
 ======
-* **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU.
-* **07.2023** Started 40hr Co-OP as Applied Scientist at Stealth Startup
-* **16.2022** Paper accpeted at ACL 2023 [Paper](https://arxiv.org/abs/2305.05079)
-* **05.2023** Started Internship at Amazon Alexa
+* **09.2023** Reached 50 citations.
+* **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU
+* **07.2023** Started 40hr co-op as Applied Scientist at Stealth Startup
+* **06.2022** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
+* **05.2023** Started internship at Amazon Alexa
 
 
 
@@ -59,25 +60,25 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 
 Education
 ======
-* **01.2022-present** Masters (with Thesis) in Computer Science from Arizona State University
+* **2022-2023** Masters (with Thesis) in Computer Science from Arizona State University
 * **2015-2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
 
 Experience
 ======
-* **08.2023-present** 40hr Coop as Applied Scientist at Stealth Startup.
-* **05.2023-07.2023** Internship at Amazon Alexa.
-* **01.2022-05.2023** Graduate research assistant at CogInt Labs, ASU under Dr. Chitta Baral.
-* **01.2019-12.2021** Researcher at American Express AI Labs. 
-* **01.2018-12.2018** Research intern at Covenant University under Dr. Sanjay Misra.
-* **01.2018-12.2018** Undergraduate research assistant at BITS Pilani under Dr. NL Bhanu Murthy.
+* **08.2023 - present** 40hr co-op as Applied Scientist at Stealth Startup.
+* **05.2023 - 07.2023** Internship at Amazon Alexa.
+* **01.2022 - 05.2023** Graduate Research Assistant at CogInt Labs, ASU under [Dr. Chitta Baral](https://www.public.asu.edu/~cbaral/).
+* **01.2019 - 12.2021** AI Researcher at American Express AI Labs. Supervised by [Dr. Himanshu Shrad Bhatt](https://scholar.google.com/citations?user=dZQOltMAAAAJ&hl=en) 
+* **01.2018 - 12.2018** Research Intern at Covenant University under [Dr. Sanjay Misra](https://scholar.google.com/citations?user=AFjvjTgAAAAJ&hl=en).
+* **01.2018 - 12.2018** Undergraduate Research Assistant at BITS Pilani under [Dr. NL Bhanu Murthy](https://dblp.org/pid/158/5831.html).
 
 Honors and Awards
 ======
-* 2023 Received Merit Scholarship of 1500$ for exceptional acedemic performance at ASU
-* 2022 Received Tuition Waiver and additional monthly stipend as Research Assistant from Arizona State University
-* 2021 Platinum Genius Medal for filing 3 patents in American Express
-* 2019 Best Author Award at IEMECON 2019
-* 2014 KVPY Scholarship
+* **2023** Received Merit Scholarship of 1500$ for exceptional acedemic performance at ASU
+* **2022** Received Tuition Waiver and additional monthly stipend as Research Assistant from Arizona State University
+* **2021** Platinum Genius Medal for filing 3 patents in American Express
+* **2019** Best Author Award at IEMECON 2019
+* **2014** KVPY Scholarship
 
 
 

@@ -12,7 +12,7 @@ I am a second year Masters student majoring in Computer Science (Thesis Track) f
 I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
 My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
 My research interests include Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
-You can find my resume [here](https://drive.google.com/file/d/1XI4LQTa0fn0uQGo9UEXtSQ4-XNuOBERF/view?usp=sharing).
+You can find my resume [here](https://drive.google.com/file/d/1_Nd2ZRGNSbk7HIC8kFNbhQM4inu43Ioe/view?usp=sharing).
 
 News
 ======

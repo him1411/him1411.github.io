@@ -26,7 +26,7 @@ News
 
 Selected Papers
 ======
-* **[TarGEN: Targeted Data Generation with Large Language Models](https://drive.google.com/file/d/1yL00A-fNderVCCu3duJCNVR9xOZIl2IO/view?usp=sharing)** <br>
+* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
 ***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
   **preprint**<br>
   

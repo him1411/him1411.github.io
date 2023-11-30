@@ -8,24 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Masters student majoring in Computer Science (Thesis Track) from Arizona State University. 
-I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
+I am an Applied Scientist at Amazon.
+I completed my Masters majoring in Computer Science (Thesis Track) from Arizona State University. 
 My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
-My research interests include Large Language Models, Causal Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
+I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
+My research interests include Large Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
 You can find my resume [here](https://drive.google.com/file/d/1_Nd2ZRGNSbk7HIC8kFNbhQM4inu43Ioe/view?usp=sharing).
 
 News
 ======
-* **09.2023** Reached 50 citations.
+* **11.2023** Joined Amazon as an Applied Scientist
+* **09.2023** Reached 50 citations
 * **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU
 * **07.2023** Started 40hr co-op as Applied Scientist at Stealth Startup
-* **06.2022** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
+* **06.2023** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
 * **05.2023** Started internship at Amazon Alexa
 
 
 
 Selected Papers
 ======
+* **[LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks](https://arxiv.org/abs/2311.09564)** <br>
+Mihir Parmar, Aakanksha Naik, ***Himanshu Gupta***, Disha Agrawal, Chitta Baral <br>
+  **preprint**<br>
+
 * **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
 ***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
   **preprint**<br>
@@ -60,12 +66,13 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 
 Education
 ======
-* **2022 - 2023** Masters (with Thesis) in Computer Science from Arizona State University
-* **2015 - 2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
+* **01.2022 - 12.2023** Masters (with Thesis) in Computer Science from Arizona State University
+* **08.2015 - 07.2019** B.E. with Hons. in Electrical and Electronics Engineering, BITS Pilani, India
 
 Experience
 ======
-* **08.2023 - present** 40hr co-op as Applied Scientist at Stealth Startup.
+* **01.2023 - present** Applied Scientist at Amazon.
+* **08.2023 - 11.2023** 40hr co-op as Applied Scientist at Stealth Startup.
 * **05.2023 - 07.2023** Internship at Amazon Alexa.
 * **01.2022 - 05.2023** Graduate Research Assistant at CogInt Labs, ASU under [Dr. Chitta Baral](https://www.public.asu.edu/~cbaral/).
 * **01.2019 - 12.2021** AI Researcher at American Express AI Labs. Supervised by [Dr. Himanshu Shrad Bhatt](https://scholar.google.com/citations?user=dZQOltMAAAAJ&hl=en) 

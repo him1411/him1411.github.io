@@ -16,18 +16,8 @@ I recently interned at Krutrim where I created a multi-lingual 7B foundation mod
 Research
 ======
 My research interests include Large Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
-I closely collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
+I collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
 My strength lies in generating new ideas and I am fortunate to collaborate with a diverse set of awesome researchers through my ideas.
-
-News
-======
-* **11.2023** Joined Amazon as an Applied Scientist
-* **09.2023** Reached 50 citations
-* **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU
-* **07.2023** Started 40hr co-op as Applied Scientist at [Krutrim](https://olakrutrim.com/)
-* **06.2023** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
-* **05.2023** Started internship at Amazon Alexa
-
 
 
 Selected Papers
@@ -68,6 +58,20 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 * Please check [my google scholar](https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate) page for all the papers.
 
 
+News
+======
+* **12.2023** Joined Amazon as an Applied Scientist
+* **12.2023** Graduated from Arizona State University with Distinction
+* **09.2023** Reached 50 citations
+* **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU
+* **07.2023** Started 40hr co-op as Applied Scientist at [Krutrim](https://olakrutrim.com/)
+* **06.2023** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
+* **05.2023** Started internship at Amazon Alexa
+* **01.2022** Started Masters in Computer Science at Arizona State University
+* **07.2019** Joined American Express AI Labs as a Research Engineer
+* **06.2019** Graduated from BITS Pilani
+
+
 Education
 ======
 * **01.2022 - 12.2023** Masters (with Thesis) in Computer Science from Arizona State University
@@ -75,7 +79,7 @@ Education
 
 Experience
 ======
-* **01.2023 - present** Applied Scientist at Amazon.
+* **12.2023 - present** Applied Scientist at Amazon.
 * **08.2023 - 11.2023** 40hr co-op as Applied Scientist LLM at [Krutrim](https://olakrutrim.com/).
 * **05.2023 - 07.2023** Internship at Amazon Alexa.
 * **01.2022 - 05.2023** Graduate Research Assistant at CogInt Labs, ASU under [Dr. Chitta Baral](https://www.public.asu.edu/~cbaral/).

@@ -11,7 +11,7 @@ redirect_from:
 I am an Applied Scientist at Amazon where I use LLMs for different usecases. 
 I completed my Masters majoring in Computer Science (Thesis Track) from Arizona State University. 
 My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
-I recently interned at Krutrim where I created a multi-lingual 7B foundation model focused on Indic languages. I was responsible for the curation of high quality pre-training data, instruction tuning and evaluation of the model and obtained results comparable with Llama2 [Media Coverage](https://www.youtube.com/watch?v=5BhN0Qopt_0&t=2203s).
+I recently interned at Krutrim where I created a multi-lingual 7B foundation model focused on Indic languages. I was responsible for the curation of high quality pre-training data, instruction tuning and evaluation of the model and obtained results comparable with Llama 2 ([Media Coverage](https://www.youtube.com/watch?v=5BhN0Qopt_0&t=2203s)).
 
 Research
 ======
@@ -24,7 +24,7 @@ News
 * **11.2023** Joined Amazon as an Applied Scientist
 * **09.2023** Reached 50 citations
 * **08.2023** Received 1500$ merit scholarship from School of Computing and AI at ASU
-* **07.2023** Started 40hr co-op as Applied Scientist at Krutrim [Media Coverage](https://www.youtube.com/watch?v=5BhN0Qopt_0&t=2203s)
+* **07.2023** Started 40hr co-op as Applied Scientist at [Krutrim](https://olakrutrim.com/)
 * **06.2023** [Paper](https://arxiv.org/abs/2305.05079) accepted at ACL 2023
 * **05.2023** Started internship at Amazon Alexa
 
@@ -76,7 +76,7 @@ Education
 Experience
 ======
 * **01.2023 - present** Applied Scientist at Amazon.
-* **08.2023 - 11.2023** 40hr co-op as Applied Scientist at [Krutrim](https://olakrutrim.com/).
+* **08.2023 - 11.2023** 40hr co-op as Applied Scientist LLM at [Krutrim](https://olakrutrim.com/).
 * **05.2023 - 07.2023** Internship at Amazon Alexa.
 * **01.2022 - 05.2023** Graduate Research Assistant at CogInt Labs, ASU under [Dr. Chitta Baral](https://www.public.asu.edu/~cbaral/).
 * **01.2019 - 12.2021** AI Researcher at American Express AI Labs. Supervised by [Dr. Himanshu Shrad Bhatt](https://scholar.google.com/citations?user=dZQOltMAAAAJ&hl=en) 
@@ -85,11 +85,11 @@ Experience
 
 Honors and Awards
 ======
-* **2023** Received Merit Scholarship of 1500$ for exceptional acedemic performance at ASU
-* **2022** Received Tuition Waiver and additional monthly stipend as Research Assistant from Arizona State University
-* **2021** Platinum Genius Medal for filing 3 patents in American Express
-* **2019** Best Author Award at IEMECON 2019
-* **2014** KVPY Scholarship
+* **08.2023** Received Merit Scholarship of 1500$ for exceptional acedemic performance at ASU
+* **01.2022** Received Tuition Waiver and additional monthly stipend as Research Assistant from Arizona State University
+* **12.2021** Platinum Genius Medal for filing 3 patents in American Express
+* **03.2019** Best Author Award at IEMECON 2019
+* **04.2014** KVPY Scholarship
 
 
 

@@ -60,6 +60,7 @@ Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaro
 
 News
 ======
+* **01.2024** Reached 100 citations
 * **12.2023** Joined Amazon as an Applied Scientist
 * **12.2023** Graduated from Arizona State University with Distinction
 * **09.2023** Reached 50 citations

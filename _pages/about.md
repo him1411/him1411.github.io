@@ -22,17 +22,10 @@ My strength lies in generating new ideas and I am fortunate to collaborate with 
 
 Selected Papers
 ======
-* **[LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks](https://arxiv.org/abs/2311.09564)** <br>
-Mihir Parmar, Aakanksha Naik, ***Himanshu Gupta***, Disha Agrawal, Chitta Baral <br>
-  **preprint**<br>
 
-* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
-***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
-  **preprint**<br>
-  
-* **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>
-***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
-  **preprint**<br>
+* **[“Len or index or count, anything but v1”: Predicting Variable Names in Decompilation Output with Transfer Learning](https://www.atipriya.com/files/papers/varbert_oakland24.pdf).** <br>
+Kuntal Kumar Pal, Ati Priya Bajaj, Pratyay Banerjee, Audrey Dutcher, Mutsumi Nakamura, Zion Leonahenahe Basque, ***Himanshu Gupta***, Saurabh Arjun Sawant, Ujjwala Anantheswaran, Yan Shoshitaishvili, Adam Doupé, Chitta Baral, Ruoyu Wang <br>
+  **ACL 2023**<br>
 
 * **[A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution](https://arxiv.org/abs/2305.05079).** <br>
 Neeraj Varshney, ***Himanshu Gupta***, Eric Robertson, Bing Liu, Chitta Baral <br>
@@ -45,6 +38,18 @@ Neeraj Varshney, ***Himanshu Gupta***, Eric Robertson, Bing Liu, Chitta Baral <b
 * **[Context-NER : Contextual Phrase Generation at Scale](https://arxiv.org/abs/2109.08079)** <br>
 ***Himanshu Gupta***, Shreyas Verma, Santosh Mashetty, Swaroop Mishra <br>
   **NeurIPS ENLSP Workshop 2022**<br>
+
+* **[LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks](https://arxiv.org/abs/2311.09564)** <br>
+Mihir Parmar, Aakanksha Naik, ***Himanshu Gupta***, Disha Agrawal, Chitta Baral <br>
+  **preprint**<br>
+
+* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
+***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
+  **preprint**<br>
+  
+* **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>
+***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
+  **preprint**<br>
 
 * **[EDM3: Event Detection as Multi-task Text Generation](https://arxiv.org/abs/2305.16357).** <br>
 Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chitta Baral <br>

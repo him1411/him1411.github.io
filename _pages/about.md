@@ -25,7 +25,7 @@ Selected Papers
 
 * **[“Len or index or count, anything but v1”: Predicting Variable Names in Decompilation Output with Transfer Learning](https://www.atipriya.com/files/papers/varbert_oakland24.pdf).** <br>
 Kuntal Kumar Pal, Ati Priya Bajaj, Pratyay Banerjee, Audrey Dutcher, Mutsumi Nakamura, Zion Leonahenahe Basque, ***Himanshu Gupta***, Saurabh Arjun Sawant, Ujjwala Anantheswaran, Yan Shoshitaishvili, Adam Doupé, Chitta Baral, Ruoyu Wang <br>
-  **ACL 2023**<br>
+  **IEEE S&P 2023**<br>
 
 * **[A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution](https://arxiv.org/abs/2305.05079).** <br>
 Neeraj Varshney, ***Himanshu Gupta***, Eric Robertson, Bing Liu, Chitta Baral <br>

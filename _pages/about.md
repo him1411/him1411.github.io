@@ -23,6 +23,10 @@ My strength lies in generating new ideas and I am fortunate to collaborate with 
 Selected Papers
 ======
 
+* **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
+Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
+  **NAACL 2024**<br>
+
 * **[“Len or index or count, anything but v1”: Predicting Variable Names in Decompilation Output with Transfer Learning](https://www.atipriya.com/files/papers/varbert_oakland24.pdf).** <br>
 Kuntal Kumar Pal, Ati Priya Bajaj, Pratyay Banerjee, Audrey Dutcher, Mutsumi Nakamura, Zion Leonahenahe Basque, ***Himanshu Gupta***, Saurabh Arjun Sawant, Ujjwala Anantheswaran, Yan Shoshitaishvili, Adam Doupé, Chitta Baral, Ruoyu Wang <br>
   **IEEE S&P 2023**<br>
@@ -56,15 +60,12 @@ Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chi
   **preprint**<br>
 
   
-* **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
-Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
-  **preprint**<br>
-
 * Please check [my google scholar](https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate) page for all the papers.
 
 
 News
 ======
+* **03.2024** [Paper](https://arxiv.org/abs/2302.08624) accepted at NAACL 2024
 * **01.2024** Reached 100 citations
 * **12.2023** Joined Amazon as an Applied Scientist
 * **12.2023** Graduated from Arizona State University with Distinction

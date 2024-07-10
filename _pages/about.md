@@ -8,20 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at Amazon where I use LLMs for different usecases. 
-I completed my Masters majoring in Computer Science (Thesis Track) from Arizona State University. 
-My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
-I recently interned at Krutrim where I created a multi-lingual 7B foundation model focused on Indic languages. I was responsible for the curation of high quality pre-training data, instruction tuning and evaluation of the model and obtained results comparable with Llama 2 ([Media Coverage](https://www.youtube.com/watch?v=5BhN0Qopt_0&t=2203s)).
+I am an Applied Scientist at Amazon where I work on development of foundation models for Amazon Business team. My main research contributions are showcasing [sample efficiency of instruction tuned langugae models](https://arxiv.org/abs/2306.05539), [mathematical robustness](https://arxiv.org/abs/2406.15444), [synthetic data generation](https://arxiv.org/abs/2310.17876) and [aspect based sentiment analysis](https://arxiv.org/abs/2302.08624). I completed my Bachelors from BITS Pilani and masters majoring in Computer Science (Thesis Track) from Arizona State University. My thesis was on "Sample efficiency of Instruction Tuned Models" supervised by Prof. [Chitta Baral](https://www.public.asu.edu/~cbaral/). 
+
+I recently interned at Krutrim where I created a multi-lingual 7B foundation model focused on Indic languages and developed a new tokenizer for the same! It keeps the vocabulary concise at around 100,000 words while still understanding most words.  We also built a multilingual large language model (LLM) that understands 10 Indic languages ([Media Coverage](https://www.youtube.com/watch?v=5BhN0Qopt_0&t=2203s)). This involved gathering pretraining corpora of nearly 2 trillion tokens and training the LLM. To further improve its performance, I worked on generating supervised finetuning data. Finally, with the help of vLLM and TensorRT, we deployed the LLM for efficient use with high throughput and low latency.  
 
 Research
 ======
 My research interests include Large Language Models, Enhancing Pretraining Corpora, Instruction Tuning, and Direct Preference Optimization. 
 I collaborate with Dr. [Swaroop Mishra](https://swarooprm.github.io) on topics such as Instruction tuning, Synthetic dataset creation and mathematical reasoning.
-My strength lies in generating new ideas and I am fortunate to collaborate with a diverse set of awesome researchers through my ideas.
+My strength lies in generating new ideas and I am fortunate to collaborate with a diverse set of awesome researchers.
 
 
 Selected Papers
 ======
+
+* **[Investigating the Robustness of LLMs on Math Word Problems](https://arxiv.org/abs/2406.15444)** <br>
+Ujjwala Anantheswaran, ***Himanshu Gupta***,  Kevin Scaria, Shreyas Verma, Chitta Baral, Swaroop Mishra<br>
+  **preprint**<br>
+
+
+* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
+***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
+  **COLM 2024**<br>
+
+* **[EDM3: Event Detection as Multi-task Text Generation](https://arxiv.org/abs/2305.16357).** <br>
+Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chitta Baral <br>
+  **SEM NAACL 2024**<br>
 
 * **[InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis](https://arxiv.org/abs/2302.08624)** <br>
 Kevin Scaria, ***Himanshu Gupta***, Siddharth Goyal, Saurabh Arjun Sawant, Swaroop Mishra, Chitta Baral <br>
@@ -46,26 +58,19 @@ Neeraj Varshney, ***Himanshu Gupta***, Eric Robertson, Bing Liu, Chitta Baral <b
 * **[LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks](https://arxiv.org/abs/2311.09564)** <br>
 Mihir Parmar, Aakanksha Naik, ***Himanshu Gupta***, Disha Agrawal, Chitta Baral <br>
   **preprint**<br>
-
-* **[TarGEN: Targeted Data Generation with Large Language Models](https://arxiv.org/abs/2310.17876)** <br>
-***Himanshu Gupta***, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra<br>
-  **preprint**<br>
   
 * **[Instruction Tuned Models are Quick Learners](https://arxiv.org/abs/2306.05539)** <br>
 ***Himanshu Gupta***, Saurabh Arjun Sawant, Swaroop Mishra, Mutsumi Nakamura, Arindam Mitra, Santosh Mashetty, Chitta Baral <br>
   **preprint**<br>
 
-* **[EDM3: Event Detection as Multi-task Text Generation](https://arxiv.org/abs/2305.16357).** <br>
-Ujjwala Anantheswaran, ***Himanshu Gupta***, Mihir Parmar, Kuntal Kumar Pal, Chitta Baral <br>
-  **preprint**<br>
-
-  
 * Please check [my google scholar](https://scholar.google.com/citations?hl=en&user=ydjuhxsAAAAJ&view_op=list_works&sortby=pubdate) page for all the papers.
 
 
 News
 ======
-* **03.2024** [Paper](https://arxiv.org/abs/2302.08624) accepted at NAACL 2024
+* **07.2024** [TarGEN](https://arxiv.org/abs/2310.17876) accepted at COLM 2024
+* **05.2024** [EDM 3](https://arxiv.org/abs/2305.16357) accepted at SEM NAACL 2024
+* **03.2024** [InstructABSA](https://arxiv.org/abs/2302.08624) accepted at NAACL 2024
 * **01.2024** Reached 100 citations
 * **12.2023** Joined Amazon as an Applied Scientist
 * **12.2023** Graduated from Arizona State University with Distinction

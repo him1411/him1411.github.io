@@ -21,7 +21,7 @@ My strength lies in generating new ideas and I am fortunate to collaborate with 
 
 Selected Papers
 ======
-* **[PolyMATH](https://drive.google.com/file/d/1VGnfqJeP-8fM0vBe4a8maDmi5KDSp-Sl/view?usp=sharing)** <br>
+* **[PolyMATH: A Challenging Multi-modal Mathematical Reasoning Benchmark](https://drive.google.com/file/d/1VGnfqJeP-8fM0vBe4a8maDmi5KDSp-Sl/view?usp=sharing)** <br>
 ***Himanshu Gupta***, Shreyas Verma, Ujjwala Anantheswaran, Kevin Scaria, Mihir Parmar, Swaroop Mishra, Chitta Baral<br>
   **preprint**<br>
 

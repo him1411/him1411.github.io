@@ -21,6 +21,10 @@ My strength lies in generating new ideas and I am fortunate to collaborate with 
 
 Selected Papers
 ======
+* **[PolyMATH](https://drive.google.com/file/d/1VGnfqJeP-8fM0vBe4a8maDmi5KDSp-Sl/view?usp=sharing)** <br>
+***Himanshu Gupta***, Shreyas Verma, Ujjwala Anantheswaran, Kevin Scaria, Mihir Parmar, Swaroop Mishra, Chitta Baral<br>
+  **preprint**<br>
+
 
 * **[Investigating the Robustness of LLMs on Math Word Problems](https://arxiv.org/abs/2406.15444)** <br>
 Ujjwala Anantheswaran, ***Himanshu Gupta***,  Kevin Scaria, Shreyas Verma, Chitta Baral, Swaroop Mishra<br>
